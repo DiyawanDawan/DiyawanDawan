@@ -9,6 +9,7 @@ Perkenalkan nama saya **Diyawan**<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/diyawan-dawan-a22394215/) ku ya
 
+
   <p dir="auto">
       <a target="_blank" rel="noopener noreferrer nofollow"
         href="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074"><img
@@ -23,7 +24,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
           data-canonical-src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518"
           style="max-width: 100%;"></a>&nbsp;
    
-      <a target="_blank" rel="noopener noreferrer nofollow"
+ <a target="_blank" rel="noopener noreferrer nofollow"
         href="https://camo.githubusercontent.com/0dbdbda9b41b77beb88c3a54e5da74ae7632c0683b09536f78bcc146258be5fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374"><img
           src="https://camo.githubusercontent.com/0dbdbda9b41b77beb88c3a54e5da74ae7632c0683b09536f78bcc146258be5fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374"
           alt="React" data-canonical-src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react"
@@ -34,7 +35,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
           alt="Node.js" data-canonical-src="https://img.shields.io/badge/-Node.js-05122A?style=flat&amp;logo=node.js"
           style="max-width: 100%;"></a>&nbsp;
      
-      <a target="_blank" rel="noopener noreferrer nofollow"
+<a target="_blank" rel="noopener noreferrer nofollow"
         href="https://camo.githubusercontent.com/1a3d592707d940e585ac708278cf93823ccf24115714e2b90d27165c2abac401/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3035313232413f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d353633443743"><img
           src="https://camo.githubusercontent.com/1a3d592707d940e585ac708278cf93823ccf24115714e2b90d27165c2abac401/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3035313232413f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d353633443743"
           alt="Bootstrap"
@@ -62,13 +63,15 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
           alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github"
           style="max-width: 100%;"></a>&nbsp;
   
-      <a target="_blank" rel="noopener noreferrer nofollow"
+<a target="_blank" rel="noopener noreferrer nofollow"
         href="https://camo.githubusercontent.com/1ca4fca85fcdf590edd7002c02ded299502daa79309d0656859b69d55a1c1fa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343"><img
           src="https://camo.githubusercontent.com/1ca4fca85fcdf590edd7002c02ded299502daa79309d0656859b69d55a1c1fa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343"
           alt="Visual Studio Code"
           data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC"
           style="max-width: 100%;"></a>&nbsp;
     </p>
+
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/gilangadhan">
