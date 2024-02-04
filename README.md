@@ -10,9 +10,8 @@ Saya adalah seorang **Front-end Developer** dan saya memiliki **Meta Front-End D
 - [Programming with JavaScript](https://www.coursera.org/account/accomplishments/verify/JNFYSZ86BVCH)
 
 Jika Anda tertarik untuk berkenalan lebih lanjut dengan saya, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/diyawan-dawan-a22394215/) saya.
-
-## Skill
 <hr>
+## Skill
 <p>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
